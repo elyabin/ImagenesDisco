@@ -1,0 +1,19 @@
+c:\users\sistemasweb2\documents\visual studio 2010\Projects\ImagenesDisco\ImagenesDisco\bin\Debug\ImagenesDisco.exe
+c:\users\sistemasweb2\documents\visual studio 2010\Projects\ImagenesDisco\ImagenesDisco\bin\Debug\ImagenesDisco.pdb
+c:\users\sistemasweb2\documents\visual studio 2010\Projects\ImagenesDisco\ImagenesDisco\obj\x86\Debug\ImagenesDisco.Form1.resources
+c:\users\sistemasweb2\documents\visual studio 2010\Projects\ImagenesDisco\ImagenesDisco\obj\x86\Debug\ImagenesDisco.Properties.Resources.resources
+c:\users\sistemasweb2\documents\visual studio 2010\Projects\ImagenesDisco\ImagenesDisco\obj\x86\Debug\ImagenesDisco.csproj.GenerateResource.Cache
+c:\users\sistemasweb2\documents\visual studio 2010\Projects\ImagenesDisco\ImagenesDisco\obj\x86\Debug\ImagenesDisco.exe
+c:\users\sistemasweb2\documents\visual studio 2010\Projects\ImagenesDisco\ImagenesDisco\obj\x86\Debug\ImagenesDisco.pdb
+C:\Users\sistemasweb2\documents\visual studio 2010\Projects\ImagenesDisco\ImagenesDisco\obj\x86\Debug\ImagenesDisco.csprojResolveAssemblyReference.cache
+C:\Users\joel.diaz\Desktop\ImagenesDisco\ImagenesDisco\obj\x86\Debug\ImagenesDisco.exe
+C:\Users\joel.diaz\Desktop\ImagenesDisco\ImagenesDisco\obj\x86\Debug\ImagenesDisco.pdb
+C:\Users\joel.diaz\Desktop\ImagenesDisco\ImagenesDisco\bin\Debug\ImagenesDisco.exe
+C:\Users\joel.diaz\Desktop\ImagenesDisco\ImagenesDisco\bin\Debug\ImagenesDisco.pdb
+C:\Users\joel.diaz\Desktop\ImagenesDisco\ImagenesDisco\obj\x86\Debug\ImagenesDisco.csprojResolveAssemblyReference.cache
+C:\Users\joel.diaz\Desktop\ImagenesDisco\ImagenesDisco\obj\x86\Debug\ImagenesDisco.Form1.resources
+C:\Users\joel.diaz\Desktop\ImagenesDisco\ImagenesDisco\obj\x86\Debug\ImagenesDisco.frmVisorImagenes.resources
+C:\Users\joel.diaz\Desktop\ImagenesDisco\ImagenesDisco\obj\x86\Debug\ImagenesDisco.Properties.Resources.resources
+C:\Users\joel.diaz\Desktop\ImagenesDisco\ImagenesDisco\obj\x86\Debug\ImagenesDisco.csproj.GenerateResource.Cache
+C:\Users\joel.diaz\Desktop\Repositorio\trunk\ImagenesDisco\ImagenesDisco\obj\x86\Debug\ImagenesDisco.exe
+C:\Users\joel.diaz\Desktop\Repositorio\trunk\ImagenesDisco\ImagenesDisco\obj\x86\Debug\ImagenesDisco.pdb
